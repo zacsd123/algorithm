@@ -1,0 +1,397 @@
+﻿n,list,sort,ms,status
+100,완전 랜덤,Bubble,0.00,ok
+100,완전 랜덤,Select,0.00,ok
+100,완전 랜덤,Insert,0.00,ok
+100,완전 랜덤,Merge,0.01,ok
+100,완전 랜덤,Quick,0.00,ok
+100,완전 랜덤,Heap,0.01,ok
+100,거의 정렬,Bubble,0.01,ok
+100,거의 정렬,Select,0.00,ok
+100,거의 정렬,Insert,0.00,ok
+100,거의 정렬,Merge,0.00,ok
+100,거의 정렬,Quick,0.00,ok
+100,거의 정렬,Heap,0.01,ok
+100,정렬됨,Bubble,0.00,ok
+100,정렬됨,Select,0.00,ok
+100,정렬됨,Insert,0.00,ok
+100,정렬됨,Merge,0.01,ok
+100,정렬됨,Quick,0.01,ok
+100,정렬됨,Heap,0.01,ok
+100,역정렬,Bubble,0.04,ok
+100,역정렬,Select,0.00,ok
+100,역정렬,Insert,0.01,ok
+100,역정렬,Merge,0.00,ok
+100,역정렬,Quick,0.00,ok
+100,역정렬,Heap,0.02,ok
+100,거의 역정렬,Bubble,0.02,ok
+100,거의 역정렬,Select,0.00,ok
+100,거의 역정렬,Insert,0.01,ok
+100,거의 역정렬,Merge,0.00,ok
+100,거의 역정렬,Quick,0.00,ok
+100,거의 역정렬,Heap,0.02,ok
+100,중복 많음,Bubble,0.03,ok
+100,중복 많음,Select,0.00,ok
+100,중복 많음,Insert,0.00,ok
+100,중복 많음,Merge,0.00,ok
+100,중복 많음,Quick,0.00,ok
+100,중복 많음,Heap,0.01,ok
+200,완전 랜덤,Bubble,0.02,ok
+200,완전 랜덤,Select,0.01,ok
+200,완전 랜덤,Insert,0.01,ok
+200,완전 랜덤,Merge,0.01,ok
+200,완전 랜덤,Quick,0.00,ok
+200,완전 랜덤,Heap,0.03,ok
+200,거의 정렬,Bubble,0.01,ok
+200,거의 정렬,Select,0.01,ok
+200,거의 정렬,Insert,0.00,ok
+200,거의 정렬,Merge,0.01,ok
+200,거의 정렬,Quick,0.01,ok
+200,거의 정렬,Heap,0.02,ok
+200,정렬됨,Bubble,0.00,ok
+200,정렬됨,Select,0.01,ok
+200,정렬됨,Insert,0.00,ok
+200,정렬됨,Merge,0.01,ok
+200,정렬됨,Quick,0.02,ok
+200,정렬됨,Heap,0.02,ok
+200,역정렬,Bubble,0.02,ok
+200,역정렬,Select,0.01,ok
+200,역정렬,Insert,0.02,ok
+200,역정렬,Merge,0.02,ok
+200,역정렬,Quick,0.01,ok
+200,역정렬,Heap,0.01,ok
+200,거의 역정렬,Bubble,0.02,ok
+200,거의 역정렬,Select,0.01,ok
+200,거의 역정렬,Insert,0.02,ok
+200,거의 역정렬,Merge,0.01,ok
+200,거의 역정렬,Quick,0.00,ok
+200,거의 역정렬,Heap,0.01,ok
+200,중복 많음,Bubble,0.01,ok
+200,중복 많음,Select,0.01,ok
+200,중복 많음,Insert,0.01,ok
+200,중복 많음,Merge,0.01,ok
+200,중복 많음,Quick,0.00,ok
+200,중복 많음,Heap,0.01,ok
+400,완전 랜덤,Bubble,0.09,ok
+400,완전 랜덤,Select,0.04,ok
+400,완전 랜덤,Insert,0.05,ok
+400,완전 랜덤,Merge,0.02,ok
+400,완전 랜덤,Quick,0.01,ok
+400,완전 랜덤,Heap,0.02,ok
+400,거의 정렬,Bubble,0.03,ok
+400,거의 정렬,Select,0.04,ok
+400,거의 정렬,Insert,0.00,ok
+400,거의 정렬,Merge,0.02,ok
+400,거의 정렬,Quick,0.01,ok
+400,거의 정렬,Heap,0.02,ok
+400,정렬됨,Bubble,0.00,ok
+400,정렬됨,Select,0.04,ok
+400,정렬됨,Insert,0.00,ok
+400,정렬됨,Merge,0.01,ok
+400,정렬됨,Quick,0.08,ok
+400,정렬됨,Heap,0.01,ok
+400,역정렬,Bubble,0.09,ok
+400,역정렬,Select,0.04,ok
+400,역정렬,Insert,0.11,ok
+400,역정렬,Merge,0.01,ok
+400,역정렬,Quick,0.04,ok
+400,역정렬,Heap,0.04,ok
+400,거의 역정렬,Bubble,0.07,ok
+400,거의 역정렬,Select,0.07,ok
+400,거의 역정렬,Insert,0.09,ok
+400,거의 역정렬,Merge,0.02,ok
+400,거의 역정렬,Quick,0.01,ok
+400,거의 역정렬,Heap,0.02,ok
+400,중복 많음,Bubble,0.06,ok
+400,중복 많음,Select,0.04,ok
+400,중복 많음,Insert,0.04,ok
+400,중복 많음,Merge,0.02,ok
+400,중복 많음,Quick,0.01,ok
+400,중복 많음,Heap,0.01,ok
+800,완전 랜덤,Bubble,0.48,ok
+800,완전 랜덤,Select,0.24,ok
+800,완전 랜덤,Insert,0.27,ok
+800,완전 랜덤,Merge,0.09,ok
+800,완전 랜덤,Quick,0.02,ok
+800,완전 랜덤,Heap,0.04,ok
+800,거의 정렬,Bubble,0.17,ok
+800,거의 정렬,Select,0.16,ok
+800,거의 정렬,Insert,0.02,ok
+800,거의 정렬,Merge,0.05,ok
+800,거의 정렬,Quick,0.02,ok
+800,거의 정렬,Heap,0.05,ok
+800,정렬됨,Bubble,0.00,ok
+800,정렬됨,Select,0.14,ok
+800,정렬됨,Insert,0.00,ok
+800,정렬됨,Merge,0.03,ok
+800,정렬됨,Quick,0.30,ok
+800,정렬됨,Heap,0.07,ok
+800,역정렬,Bubble,0.37,ok
+800,역정렬,Select,0.15,ok
+800,역정렬,Insert,0.53,ok
+800,역정렬,Merge,0.08,ok
+800,역정렬,Quick,0.20,ok
+800,역정렬,Heap,0.08,ok
+800,거의 역정렬,Bubble,0.45,ok
+800,거의 역정렬,Select,0.17,ok
+800,거의 역정렬,Insert,0.39,ok
+800,거의 역정렬,Merge,0.03,ok
+800,거의 역정렬,Quick,0.02,ok
+800,거의 역정렬,Heap,0.04,ok
+800,중복 많음,Bubble,0.36,ok
+800,중복 많음,Select,0.18,ok
+800,중복 많음,Insert,0.21,ok
+800,중복 많음,Merge,0.05,ok
+800,중복 많음,Quick,0.03,ok
+800,중복 많음,Heap,0.03,ok
+1600,완전 랜덤,Bubble,1.33,ok
+1600,완전 랜덤,Select,1.11,ok
+1600,완전 랜덤,Insert,0.96,ok
+1600,완전 랜덤,Merge,0.11,ok
+1600,완전 랜덤,Quick,0.06,ok
+1600,완전 랜덤,Heap,0.08,ok
+1600,거의 정렬,Bubble,0.47,ok
+1600,거의 정렬,Select,0.63,ok
+1600,거의 정렬,Insert,0.10,ok
+1600,거의 정렬,Merge,0.36,ok
+1600,거의 정렬,Quick,0.05,ok
+1600,거의 정렬,Heap,0.07,ok
+1600,정렬됨,Bubble,0.00,ok
+1600,정렬됨,Select,0.58,ok
+1600,정렬됨,Insert,0.00,ok
+1600,정렬됨,Merge,0.04,ok
+1600,정렬됨,Quick,1.20,ok
+1600,정렬됨,Heap,0.06,ok
+1600,역정렬,Bubble,1.46,ok
+1600,역정렬,Select,0.81,ok
+1600,역정렬,Insert,1.47,ok
+1600,역정렬,Merge,0.10,ok
+1600,역정렬,Quick,0.88,ok
+1600,역정렬,Heap,0.25,ok
+1600,거의 역정렬,Bubble,1.33,ok
+1600,거의 역정렬,Select,0.58,ok
+1600,거의 역정렬,Insert,1.45,ok
+1600,거의 역정렬,Merge,0.07,ok
+1600,거의 역정렬,Quick,0.04,ok
+1600,거의 역정렬,Heap,0.08,ok
+1600,중복 많음,Bubble,1.06,ok
+1600,중복 많음,Select,0.61,ok
+1600,중복 많음,Insert,0.68,ok
+1600,중복 많음,Merge,0.13,ok
+1600,중복 많음,Quick,0.06,ok
+1600,중복 많음,Heap,0.07,ok
+3200,완전 랜덤,Bubble,4.12,ok
+3200,완전 랜덤,Select,2.31,ok
+3200,완전 랜덤,Insert,3.76,ok
+3200,완전 랜덤,Merge,0.35,ok
+3200,완전 랜덤,Quick,0.33,ok
+3200,완전 랜덤,Heap,0.18,ok
+3200,거의 정렬,Bubble,1.79,ok
+3200,거의 정렬,Select,2.52,ok
+3200,거의 정렬,Insert,0.39,ok
+3200,거의 정렬,Merge,0.11,ok
+3200,거의 정렬,Quick,0.11,ok
+3200,거의 정렬,Heap,0.14,ok
+3200,정렬됨,Bubble,0.00,ok
+3200,정렬됨,Select,2.35,ok
+3200,정렬됨,Insert,0.00,ok
+3200,정렬됨,Merge,0.37,ok
+3200,정렬됨,Quick,4.88,ok
+3200,정렬됨,Heap,0.24,ok
+3200,역정렬,Bubble,7.38,ok
+3200,역정렬,Select,2.80,ok
+3200,역정렬,Insert,6.40,ok
+3200,역정렬,Merge,0.16,ok
+3200,역정렬,Quick,2.89,ok
+3200,역정렬,Heap,0.54,ok
+3200,거의 역정렬,Bubble,5.86,ok
+3200,거의 역정렬,Select,2.46,ok
+3200,거의 역정렬,Insert,6.94,ok
+3200,거의 역정렬,Merge,0.10,ok
+3200,거의 역정렬,Quick,0.08,ok
+3200,거의 역정렬,Heap,0.17,ok
+3200,중복 많음,Bubble,4.23,ok
+3200,중복 많음,Select,2.65,ok
+3200,중복 많음,Insert,2.92,ok
+3200,중복 많음,Merge,0.25,ok
+3200,중복 많음,Quick,0.23,ok
+3200,중복 많음,Heap,0.16,ok
+6400,완전 랜덤,Bubble,26.54,ok
+6400,완전 랜덤,Select,9.97,ok
+6400,완전 랜덤,Insert,12.65,ok
+6400,완전 랜덤,Merge,0.56,ok
+6400,완전 랜덤,Quick,0.32,ok
+6400,완전 랜덤,Heap,0.43,ok
+6400,거의 정렬,Bubble,8.49,ok
+6400,거의 정렬,Select,9.78,ok
+6400,거의 정렬,Insert,1.76,ok
+6400,거의 정렬,Merge,0.41,ok
+6400,거의 정렬,Quick,0.24,ok
+6400,거의 정렬,Heap,0.54,ok
+6400,정렬됨,Bubble,0.00,ok
+6400,정렬됨,Select,10.42,ok
+6400,정렬됨,Insert,0.01,ok
+6400,정렬됨,Merge,0.57,ok
+6400,정렬됨,Quick,21.36,ok
+6400,정렬됨,Heap,0.36,ok
+6400,역정렬,Bubble,25.46,ok
+6400,역정렬,Select,10.46,ok
+6400,역정렬,Insert,24.77,ok
+6400,역정렬,Merge,0.58,ok
+6400,역정렬,Quick,9.85,ok
+6400,역정렬,Heap,0.57,ok
+6400,거의 역정렬,Bubble,18.36,ok
+6400,거의 역정렬,Select,9.30,ok
+6400,거의 역정렬,Insert,23.09,ok
+6400,거의 역정렬,Merge,0.22,ok
+6400,거의 역정렬,Quick,0.19,ok
+6400,거의 역정렬,Heap,0.44,ok
+6400,중복 많음,Bubble,13.73,ok
+6400,중복 많음,Select,9.24,ok
+6400,중복 많음,Insert,11.53,ok
+6400,중복 많음,Merge,0.52,ok
+6400,중복 많음,Quick,0.88,ok
+6400,중복 많음,Heap,0.41,ok
+12800,완전 랜덤,Bubble,158.39,ok
+12800,완전 랜덤,Select,38.88,ok
+12800,완전 랜덤,Insert,52.78,ok
+12800,완전 랜덤,Merge,1.04,ok
+12800,완전 랜덤,Quick,0.57,ok
+12800,완전 랜덤,Heap,0.95,ok
+12800,거의 정렬,Bubble,33.26,ok
+12800,거의 정렬,Select,40.52,ok
+12800,거의 정렬,Insert,6.31,ok
+12800,거의 정렬,Merge,0.65,ok
+12800,거의 정렬,Quick,0.57,ok
+12800,거의 정렬,Heap,0.71,ok
+12800,정렬됨,Bubble,0.00,ok
+12800,정렬됨,Select,38.73,ok
+12800,정렬됨,Insert,0.07,ok
+12800,정렬됨,Merge,0.47,ok
+12800,정렬됨,Quick,82.33,ok
+12800,정렬됨,Heap,0.65,ok
+12800,역정렬,Bubble,106.45,ok
+12800,역정렬,Select,41.55,ok
+12800,역정렬,Insert,108.01,ok
+12800,역정렬,Merge,0.37,ok
+12800,역정렬,Quick,40.38,ok
+12800,역정렬,Heap,1.25,ok
+12800,거의 역정렬,Bubble,75.72,ok
+12800,거의 역정렬,Select,38.14,ok
+12800,거의 역정렬,Insert,95.97,ok
+12800,거의 역정렬,Merge,0.54,ok
+12800,거의 역정렬,Quick,0.40,ok
+12800,거의 역정렬,Heap,0.81,ok
+12800,중복 많음,Bubble,133.94,ok
+12800,중복 많음,Select,38.61,ok
+12800,중복 많음,Insert,51.02,ok
+12800,중복 많음,Merge,1.52,ok
+12800,중복 많음,Quick,3.64,ok
+12800,중복 많음,Heap,0.75,ok
+25600,완전 랜덤,Bubble,699.98,ok
+25600,완전 랜덤,Select,156.80,ok
+25600,완전 랜덤,Insert,213.75,ok
+25600,완전 랜덤,Merge,2.56,ok
+25600,완전 랜덤,Quick,2.34,ok
+25600,완전 랜덤,Heap,1.96,ok
+25600,거의 정렬,Bubble,131.85,ok
+25600,거의 정렬,Select,151.49,ok
+25600,거의 정렬,Insert,25.11,ok
+25600,거의 정렬,Merge,1.32,ok
+25600,거의 정렬,Quick,1.27,ok
+25600,거의 정렬,Heap,1.36,ok
+25600,정렬됨,Bubble,0.01,ok
+25600,정렬됨,Select,153.09,ok
+25600,정렬됨,Insert,0.02,ok
+25600,정렬됨,Merge,0.88,ok
+25600,정렬됨,Quick,333.53,ok
+25600,정렬됨,Heap,2.28,ok
+25600,역정렬,Bubble,401.27,ok
+25600,역정렬,Select,161.83,ok
+25600,역정렬,Insert,413.67,ok
+25600,역정렬,Merge,1.48,ok
+25600,역정렬,Quick,158.44,ok
+25600,역정렬,Heap,2.43,ok
+25600,거의 역정렬,Bubble,305.00,ok
+25600,거의 역정렬,Select,158.40,ok
+25600,거의 역정렬,Insert,401.93,ok
+25600,거의 역정렬,Merge,1.27,ok
+25600,거의 역정렬,Quick,0.96,ok
+25600,거의 역정렬,Heap,1.81,ok
+25600,중복 많음,Bubble,634.92,ok
+25600,중복 많음,Select,150.44,ok
+25600,중복 많음,Insert,189.08,ok
+25600,중복 많음,Merge,1.28,ok
+25600,중복 많음,Quick,12.09,ok
+25600,중복 많음,Heap,1.40,ok
+51200,완전 랜덤,Bubble,2799.29,limit
+51200,완전 랜덤,Select,608.70,ok
+51200,완전 랜덤,Insert,845.10,ok
+51200,완전 랜덤,Merge,5.47,ok
+51200,완전 랜덤,Quick,2.87,ok
+51200,완전 랜덤,Heap,4.20,ok
+51200,거의 정렬,Bubble,590.13,ok
+51200,거의 정렬,Select,610.18,ok
+51200,거의 정렬,Insert,105.22,ok
+51200,거의 정렬,Merge,2.27,ok
+51200,거의 정렬,Quick,2.68,ok
+51200,거의 정렬,Heap,2.90,ok
+51200,정렬됨,Bubble,0.01,ok
+51200,정렬됨,Select,585.38,ok
+51200,정렬됨,Insert,0.03,ok
+51200,정렬됨,Merge,1.91,ok
+51200,정렬됨,Quick,1274.51,ok
+51200,정렬됨,Heap,4.47,ok
+51200,역정렬,Bubble,1587.51,ok
+51200,역정렬,Select,636.47,ok
+51200,역정렬,Insert,1707.45,ok
+51200,역정렬,Merge,2.81,ok
+51200,역정렬,Quick,640.89,ok
+51200,역정렬,Heap,6.17,ok
+51200,거의 역정렬,Bubble,1339.37,ok
+51200,거의 역정렬,Select,620.75,ok
+51200,거의 역정렬,Insert,1590.00,ok
+51200,거의 역정렬,Merge,2.64,ok
+51200,거의 역정렬,Quick,1.78,ok
+51200,거의 역정렬,Heap,3.23,ok
+51200,중복 많음,Bubble,2667.84,limit
+51200,중복 많음,Select,602.76,ok
+51200,중복 많음,Insert,760.33,ok
+51200,중복 많음,Merge,4.24,ok
+51200,중복 많음,Quick,44.31,ok
+51200,중복 많음,Heap,3.06,ok
+102400,완전 랜덤,Bubble,,skip
+102400,완전 랜덤,Select,2395.01,limit
+102400,완전 랜덤,Insert,3329.53,limit
+102400,완전 랜덤,Merge,10.89,ok
+102400,완전 랜덤,Quick,6.75,ok
+102400,완전 랜덤,Heap,9.43,ok
+102400,거의 정렬,Bubble,2499.77,limit
+102400,거의 정렬,Select,2528.61,limit
+102400,거의 정렬,Insert,416.66,ok
+102400,거의 정렬,Merge,4.79,ok
+102400,거의 정렬,Quick,6.10,ok
+102400,거의 정렬,Heap,6.06,ok
+102400,정렬됨,Bubble,0.02,ok
+102400,정렬됨,Select,2365.44,limit
+102400,정렬됨,Insert,0.07,ok
+102400,정렬됨,Merge,3.48,ok
+102400,정렬됨,Quick,5038.79,limit
+102400,정렬됨,Heap,6.56,ok
+102400,역정렬,Bubble,6357.20,limit
+102400,역정렬,Select,2401.01,limit
+102400,역정렬,Insert,6606.30,limit
+102400,역정렬,Merge,4.11,ok
+102400,역정렬,Quick,2430.01,limit
+102400,역정렬,Heap,11.96,ok
+102400,거의 역정렬,Bubble,6125.91,limit
+102400,거의 역정렬,Select,2479.03,limit
+102400,거의 역정렬,Insert,6415.03,limit
+102400,거의 역정렬,Merge,5.29,ok
+102400,거의 역정렬,Quick,3.65,ok
+102400,거의 역정렬,Heap,6.53,ok
+102400,중복 많음,Bubble,,skip
+102400,중복 많음,Select,2382.45,limit
+102400,중복 많음,Insert,3095.55,limit
+102400,중복 많음,Merge,5.83,ok
+102400,중복 많음,Quick,189.86,ok
+102400,중복 많음,Heap,6.33,ok
