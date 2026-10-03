@@ -65,3 +65,40 @@ public class RadixSort {
         return i;
     }
 }
+
+
+// 문제 제출 시 사용하는 코드
+
+// public String getLargestNumber(int[] list) {
+//     if (list.length == 0) {
+//         return "";
+//     }
+
+//     int maxLen = 0;
+//     for (int i = 0; i < list.length; i++) {
+//         int len = getLength(list[i]);
+//         if (maxLen < len) {
+//             maxLen = len;
+//         }
+//     }
+
+//     int keyLen = maxLen * 2;
+    
+//     int[][] keys = new int[list.length][];
+//     for (int i = 0; i < list.length; i++) {
+//         keys[i] = getKey(list[i], keyLen);
+//     }
+    
+//     int[] order = getRadixSort(keys, keyLen);
+
+//     StringBuilder sb = new StringBuilder();
+//     for (int i = 0; i < order.length; i++) {
+//         sb.append(list[order[i]]);
+//     }
+    
+//     if (sb.charAt(0) == '0') {
+//         return "0";
+//     }
+
+//     return sb.toString();
+// }
